@@ -247,4 +247,4 @@ This repository serves as the official landing page for Miro. The software is di
 **Get the most recent version of Miro today!**
 
 ---
-**Last updated:** 2026-10-31 09:26:50 UTC
+**Last updated:** 2026-10-31 15:39:54 UTC
